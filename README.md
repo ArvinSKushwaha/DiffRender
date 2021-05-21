@@ -1,3 +1,3 @@
 # DiffRender
 
-Differentiable Rendering
+Differentiable Path Tracing
